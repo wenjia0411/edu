@@ -1,0 +1,52 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/java/com/shareku/service/courses
+svn://139.224.227.121:8801/edu
+
+
+
+2015-01-04T16:17:02.545205Z
+95
+guoxiangyun
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+CourseService.java
+file
+
+
+
+
+2020-07-01T09:06:20.122000Z
+32405af67580f19f98c1070a0c7ad8af
+2015-01-04T16:17:02.545205Z
+95
+guoxiangyun
+
+CoursesClassService.java
+file
+
+
+
+
+2020-07-01T09:06:20.123000Z
+0b6cd8f1d1135ee8790276b5183b7561
+2015-01-04T16:17:02.545205Z
+95
+guoxiangyun
+

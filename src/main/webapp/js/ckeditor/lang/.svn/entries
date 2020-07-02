@@ -1,0 +1,52 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/webapp/js/ckeditor/lang
+svn://139.224.227.121:8801/edu
+
+
+
+2015-01-12T14:42:39.307405Z
+142
+huangxu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+en.js
+file
+
+
+
+
+2020-07-01T09:06:50.551000Z
+12bf631a28d65e037c3563a996591ab2
+2015-01-12T14:42:39.307405Z
+142
+huangxu
+
+zh-cn.js
+file
+
+
+
+
+2020-07-01T09:06:50.551000Z
+112c69bec4b78ad6d67373a904af1706
+2015-01-12T14:42:39.307405Z
+142
+huangxu
+

@@ -1,0 +1,58 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/java/com/shareku/entity
+svn://139.224.227.121:8801/edu
+
+
+
+2015-01-25T10:52:13.767935Z
+175
+xuleilei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+Code.java
+file
+
+
+
+
+2020-07-01T09:06:20.258000Z
+f3f26c6e3a011bfef8fbaf9a5f77bbac
+2014-12-17T13:39:53.930402Z
+12
+shareku
+
+Page.java
+file
+
+
+
+
+2020-07-01T09:06:20.259000Z
+c4f2f243fb8cb77d65ab1866553714ad
+2014-12-28T07:34:25.488315Z
+71
+guodongbin
+
+auth
+dir
+
+courses
+dir
+

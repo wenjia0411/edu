@@ -1,0 +1,91 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/webapp/doc/%E6%99%92%E9%85%B7%E7%BD%91-%E5%90%8E%E5%8F%B0-1.2
+svn://139.224.227.121:8801/edu
+
+
+
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+data
+dir
+
+files
+dir
+
+home.html
+file
+
+
+
+
+2020-07-01T09:06:34.131000Z
+6fd1e431431eb01dbd63277987f28f39
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+images
+dir
+
+index.html
+file
+
+
+
+
+2020-07-01T09:06:34.131000Z
+08e81cc5ecf6beab4de46ce7e7072815
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+plugins
+dir
+
+resources
+dir
+
+start.html
+file
+
+
+
+
+2020-07-01T09:06:34.129000Z
+08e81cc5ecf6beab4de46ce7e7072815
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+start_c_1.html
+file
+
+
+
+
+2020-07-01T09:06:34.131000Z
+b76eb7994efd7edf4eb6e8f910a143ff
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+

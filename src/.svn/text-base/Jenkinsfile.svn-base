@@ -1,0 +1,24 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+		checkout([$class: 'SubversionSCM', additionalCredentials: [], excludedCommitMessages: '', excludedRegions: '', excludedRevprop: '', excludedUsers: '', filterChangelog: false, ignoreDirPropChanges: false, includedRegions: '', locations: [[cancelProcessOnExternalsFail: true, credentialsId: 'shareku1', depthOption: 'infinity', ignoreExternalsOption: true, local: 'w1', remote: 'svn://139.224.227.121:8801/edu'], [cancelProcessOnExternalsFail: true, credentialsId: 'shareku1', depthOption: 'infinity', ignoreExternalsOption: true, local: 'w2', remote: 'svn://139.224.227.121:8801/edu/src']], quietOperation: true, workspaceUpdater: [$class: 'UpdateUpdater']])
+		sh 'cp -r /var/lib/jenkins/workspace/$JOB_NAME/w1 /tmp'
+		sh 'cp -r /var/lib/jenkins/workspace/$JOB_NAME/w2 /tmp'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
+    }
+}

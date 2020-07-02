@@ -1,0 +1,103 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/webapp
+svn://139.224.227.121:8801/edu
+
+
+
+2015-06-16T12:34:51.854072Z
+194
+xuleilei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+WEB-INF
+dir
+
+article_product.html
+file
+
+
+
+
+2020-07-01T09:06:54.188000Z
+57f502afc7ff3e661a4f96899cbcdd20
+2015-01-13T14:44:26.592503Z
+151
+guoxiangyun
+
+css
+dir
+
+doc
+dir
+
+images
+dir
+
+index.html
+file
+
+
+
+
+2020-07-01T09:06:54.190000Z
+b71020c5f3720c47d843c1c39f581570
+2015-01-16T14:20:00.098611Z
+164
+xuleilei
+
+index.jsp
+file
+
+
+
+
+2020-07-01T09:06:54.187000Z
+1e896f1a2d1354e5c101422e5a70e102
+2014-12-17T13:39:53.930402Z
+12
+shareku
+
+js
+dir
+
+jwplayer
+dir
+
+list_product.html
+file
+
+
+
+
+2020-07-01T09:06:54.191000Z
+aa25c98294e99f2678f3bcaf1f13f2ee
+2015-01-25T08:59:12.589211Z
+174
+xuleilei
+
+member
+dir
+
+school
+dir
+
+uploads
+dir
+

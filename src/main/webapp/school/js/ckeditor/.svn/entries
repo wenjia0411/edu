@@ -1,0 +1,190 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/webapp/school/js/ckeditor
+svn://139.224.227.121:8801/edu
+
+
+
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+.htaccess
+file
+
+
+
+
+2020-07-01T09:06:43.040000Z
+b364c1411a3738aeccd9f9715af33d9a
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+a.html
+file
+
+
+
+
+2020-07-01T09:06:43.022000Z
+7417535f9e6fa1874a78e4209f40fc3c
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+adapters
+dir
+
+ckeditor.js
+file
+
+
+
+
+2020-07-01T09:06:43.019000Z
+0fe487b0fc3c5f98f49b4e4971acde5a
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor.pack
+file
+
+
+
+
+2020-07-01T09:06:43.021000Z
+98ec2e452fd31586bd28551009953c77
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor.php
+file
+
+
+
+
+2020-07-01T09:06:43.038000Z
+9b0db5eeaf449a5c6537fc5f61949de2
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor_basic.js
+file
+
+
+
+
+2020-07-01T09:06:43.020000Z
+9232727b9d0265189da03283b4d45e30
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor_basic_source.js
+file
+
+
+
+
+2020-07-01T09:06:43.038000Z
+4350118c83895f21e55c8fec3d34ad78
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor_php4.php
+file
+
+
+
+
+2020-07-01T09:06:43.025000Z
+7def02dd19ba5e5a8ed218aab848b0b6
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor_php5.php
+file
+
+
+
+
+2020-07-01T09:06:43.026000Z
+529c9b415a4bc75d1c8c99bff5a30eac
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+ckeditor_source.js
+file
+
+
+
+
+2020-07-01T09:06:43.038000Z
+acb18c51aa87b50a8727fdfc3ebfa7b3
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+config.js
+file
+
+
+
+
+2020-07-01T09:06:43.021000Z
+2a33ff2f2a25548a58e2eb342e3992a3
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+contents.css
+file
+
+
+
+
+2020-07-01T09:06:43.023000Z
+ff132e0218c02409add9b76d0d90fef4
+2015-05-12T15:53:35.635175Z
+187
+huangxu
+
+images
+dir
+
+lang
+dir
+
+plugins
+dir
+
+skins
+dir
+
+themes
+dir
+

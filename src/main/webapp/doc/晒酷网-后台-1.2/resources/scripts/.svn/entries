@@ -1,0 +1,82 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/webapp/doc/%E6%99%92%E9%85%B7%E7%BD%91-%E5%90%8E%E5%8F%B0-1.2/resources/scripts
+svn://139.224.227.121:8801/edu
+
+
+
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+axure
+dir
+
+axutils.js
+file
+
+
+
+
+2020-07-01T09:06:33.681000Z
+9ee0498d0681237918b5c5601d3fdc10
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+jquery-1.7.1.min.js
+file
+
+
+
+
+2020-07-01T09:06:33.713000Z
+ddb84c1587287b2df08966081ef063bf
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+jquery-ui-1.8.10.custom.min.js
+file
+
+
+
+
+2020-07-01T09:06:33.681000Z
+5a411c4011b5686d197252dfe82e65f5
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+messagecenter.js
+file
+
+
+
+
+2020-07-01T09:06:33.679000Z
+f0bc9053777da012bf659926ec5fc6f3
+2015-02-05T13:45:23.682663Z
+185
+xuleilei
+
+player
+dir
+

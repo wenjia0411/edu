@@ -1,0 +1,52 @@
+8
+
+dir
+308
+svn://139.224.227.121:8801/edu/www/src/main/resources/spring
+svn://139.224.227.121:8801/edu
+
+
+
+2015-01-06T14:22:03.405537Z
+99
+guoxiangyun
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+62a8811f-d4f8-4909-9fb0-603614239527
+
+ApplicationContext-mvc.xml
+file
+
+
+
+
+2020-07-01T09:06:20.361000Z
+a5f58a8419bf33371e646f12e7ba21a3
+2014-12-19T15:51:08.678846Z
+21
+shareku
+
+ApplicationContext.xml
+file
+
+
+
+
+2020-07-01T09:06:20.361000Z
+9cf7a96b25d5101fd41a42db0b7d6eeb
+2015-01-06T14:22:03.405537Z
+99
+guoxiangyun
+
